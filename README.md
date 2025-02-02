@@ -1,2 +1,2 @@
-# data-analysis_dashbard_project
+# data-analysis dashbard project
 this is a data anlaysis end to end project
